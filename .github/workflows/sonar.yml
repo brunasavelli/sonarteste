@@ -24,4 +24,4 @@ jobs:
         with:
           args: >
             -Dsonar.projectKey=sonarteste
-            -Dsonar.organization=Bruna Savelli
+            -Dsonar.organization=bnsavelli@gmail.com
